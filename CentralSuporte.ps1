@@ -130,8 +130,6 @@ function Executar-ReparoSimples {
 
 }
 
-
-
 function Executar-ReparoCompleto {
 
     Mostrar-Titulo "REPARO COMPLETO DE REDE"
