@@ -215,7 +215,6 @@ function Executar-ResetRede {
 # DIAGNOSTICO DE REDE
 #==========================================================
 
-
 function Menu-DiagnosticoRede {
 
     do {
