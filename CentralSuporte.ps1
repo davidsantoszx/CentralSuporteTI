@@ -16,13 +16,11 @@ chcp 65001 | Out-Null
 #==========================================================
 $DominioEmpresa = "coloque.aqui.o.seu.dominio"
 
-
 #==========================================================
 # FUNCOES AUXILIARES
 #==========================================================
 
-function Mostrar-Titulo {
-
+function Mostrar-Titulo
     param(
         [string]$Titulo
     )
