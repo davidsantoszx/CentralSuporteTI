@@ -9,6 +9,7 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 chcp 65001 | Out-Null
 
+
 #==========================================================
 # RECOMENDAÇÃO PARA USO DO AMBIENTE
 # Altere a variavel abaixo para o dominio da sua empresa.
