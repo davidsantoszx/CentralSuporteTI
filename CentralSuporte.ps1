@@ -9,7 +9,15 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
 chcp 65001 | Out-Null
 
-$DominioEmpresa = "bsb.ferreiraechagas.local"
+
+#==========================================================
+# RECOMENDAÇÃO PARA USO DO AMBIENTE
+# Altere a variavel abaixo para o dominio da sua empresa.
+# Exemplo: empresa.local ou empresa.com.br
+#==========================================================
+$DominioEmpresa = "coloque.aqui.o.seu.dominio"
+
+
 
 #==========================================================
 # FUNCOES AUXILIARES
